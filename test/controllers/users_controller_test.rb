@@ -5,5 +5,4 @@ class UsersControllerTest < ActionDispatch::IntegrationTest
     get get signup_path
     assert_response :success
   end
-
 end
