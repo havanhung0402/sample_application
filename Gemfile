@@ -1,6 +1,9 @@
 source "https://rubygems.org"
 
+<<<<<<< HEAD
 gem "bcrypt", "3.1.11"
+=======
+>>>>>>> 0e4febcd17406c9ce31d787cd665cb4e7a2135fc
 gem "bootstrap-sass", "3.3.7"
 gem "coffee-rails", "4.2.2"
 gem "jbuilder", "2.7.0"
