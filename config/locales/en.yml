@@ -31,3 +31,20 @@
 
 en:
   hello: "Hello world"
+  controllers:
+    application_controller:
+      str_render: "hello, world!"
+  views:
+    layouts:
+      _footer:
+        str_about_page: "About" 
+        str_contact_page: "Contacts"
+      _header:
+        str_title: "sample app"
+        str_home_page: "Home"
+        str_help_page: "Help"
+        str_login_page: "Log in"
+    static_pages:
+      about:
+        title_about: "About"
+
